@@ -1,0 +1,26 @@
+body{
+  background-color: aliceblue;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-size: larger;
+  display: flex;
+
+}
+
+.ul-container{
+ list-style-type: none;
+ text-align: center;
+ display: flex;
+ padding: 0;
+ margin: 0;
+ justify-content: space-around;
+}
+.nav-bar{
+  background-color: gray;
+}
+
+.content {
+  padding-top: 50px;
+}
